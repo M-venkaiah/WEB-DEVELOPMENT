@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>M.venkaiah - Portfolio</title>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>M.venkaiah</h1>
+            <p>Aspiring Web Developer</p>
+        </div>
+    </header>
+
+    <section id="about me" class="container">
+        <h2>About me . My name is venkaiah.Currently I am studying b.tech 3rd year CSE.</h2>
+        <p>Hi, I'm [M.venkaiah]. I am a passionate and dedicated web developer with a strong foundation in front-end and back-end technologies.</p>
+    </section>
+
+    <section id="projects" class="container">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Project 1</h3>
+            <p>Description of Project . This is a basic template, and you can customize it further by adding more sections, projects, or styling according to your preferences. Remember to replace placeholder text like "Your Name" and "Description of Project" with your actual information.
+
+</p>
+
+.css.
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header p {
+    margin: 5px 0;
+}
+
+section {
+    margin: 40px 0;
+}
+
+h2 {
+    color: #333;
+}
+
+.project {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+        </div>
+        <!-- Add more projects as needed -->
+    </section>
+
+    <section id="contact" class="container">
+        <h2>7680926068</h2>
+        <p>Email: Venkyvenkaiah789@gmail.com.com</p>
+        <p>LinkedIn: linkedin.com/in/M.venkaiah</p>
+        <p>GitHub: github.com/m-venkaiah</p>
+    </section>
+ <!-- Skills Section -->
+    <section id="skills" class="container">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML</li>
+            <li>CSS3</li>
+            <li>JavaScript</li>
+            <li>C language</li>
+            <li>Data science</li>
+            <li>Basics of python</li>
+            <li>Ethical hacking</li>
+            <li>Database Management</li>
+        </ul>
+    </section>
+
+    <!-- Interests Section -->
+    <section id="interests" class="container">
+        <h2>Interests</h2>
+        <ul>
+            <li>Web Development</li>
+            <li>UI/UX Design</li>
+            <li>Open Source Contribution</li>
+            <li>Learning New Technologies</li>
+            <li>Problem Solving</li>
+            <li>Reading Tech Blogs</li>
+        </ul>
+    </section>
+
+
+    <footer>
+        <p>&copy; 2023 M.venkaiah</p>
+    </footer>
+</body>
+</html>
